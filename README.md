@@ -6,6 +6,8 @@ Dynamic Layout is a layout which adds custom layouts to its child layout. Follow
 * Showing errors
 * and Even showing Custom Views
 
+![Image](dynamic_layout.gif)
+
 ##How to use
 
 We need to include DynamicLayout in the layout file. This layout will have ony one child. 
